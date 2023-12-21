@@ -1,0 +1,14 @@
+let perbandingan = 1 < 2;
+console.log (perbandingan);
+console.log (" ");
+let a = 1;
+let b = "1";
+console.log(a = b);
+console.log(a + b);
+console.log(a - b);
+console.log(a * b);
+console.log(a / b);
+console.log(" ");
+console.log(new Date().getDay());
+let waktu = new Date();
+console.log(waktu.getDay());
