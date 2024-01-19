@@ -74,12 +74,30 @@
 // console.log(odd);
 // console.log(even);
 
-for (let i = 1; i <= 100; i++) {
-    if (i % 3 == 0 && i % 5 == 0) {
-        console.log(i, 'FizzBuzz');
-    } else if (i % 3 == 0) {
-        console.log(i, 'Fizz');
-    } else if (i % 5 == 0) {
-        console.log(i, 'Buzz');
-    }
-}
+// for (let i = 1; i <= 100; i++) {
+//     if (i % 3 == 0 && i % 5 == 0) {
+//         console.log(i, 'FizzBuzz');
+//     } else if (i % 3 == 0) {
+//         console.log(i, 'Fizz');
+//     } else if (i % 5 == 0) {
+//         console.log(i, 'Buzz');
+//     }
+// }
+
+// const fruits = ["apple", "orange", "cherry"];
+// fruits.forEach(function (item) {
+//     console.log(item);
+// });
+
+// fruits.push ("Mango");
+// console.log(fruits);
+
+// foreach
+// Map
+// filter
+// find
+// sort
+
+// loop dengan map
+
+// const alphabet = ['A', 'B', 'C', 'D', ]
